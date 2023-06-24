@@ -296,7 +296,7 @@
 
 /***Portfolio01***/
 #section2{
-	background: #6478FF;
+	background: #AECDFF;
 	width: 100%;
 }
 #section2 .viewBtnOn{
@@ -316,20 +316,20 @@
 	height: 230px;
 }
 
-#section2 .portR{
+.section .portR{
 	margin : 0 0 0 45px;
 }
 
 
 /***Portfolio02***/
 #section3{
-	background: #f1e4b1;
+	background: #5ABEF5;
 	width: 100%;
 
 }
 /**좌측메뉴**/
-.portfolio02 .mainPage{
-	background: url(../../images/main02.png) no-repeat center center;
+#section3 .mainPage{
+	background: url(../../images/market\ analysis.png) no-repeat center center;
 	height: 230px;
 }
 .portfolio02 .portTxt{
@@ -337,13 +337,13 @@
 }
 
 /**우측메뉴**/
-.portfolio02 .viewBtnOn{
+#section3 .viewBtnOn{
 	padding: 185px 0;
 } 
 
 /***Portfolio03***/
 #section4{
-	background: #fb9da3;
+	background: #5ABEF5;
 	width: 100%;
 	padding: 51px 0;
 }
@@ -473,6 +473,11 @@
 }
 
 .portTxt h2{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.portTxt h3{
 	display: inline-block;
 	vertical-align: middle;
 }
