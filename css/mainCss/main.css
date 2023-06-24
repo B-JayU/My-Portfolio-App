@@ -296,13 +296,30 @@
 
 /***Portfolio01***/
 #section2{
-	background: #80abbc;
+	background: #6478FF;
 	width: 100%;
-
 }
-.portfolio01 .viewBtnOn{
+#section2 .viewBtnOn{
 	padding: 105px 0;
 }
+
+#section2 .viewBtnOn a{
+	display: block;
+	width: 273px;
+	height: 69px;
+	text-indent: -9999px;
+}
+
+#section2 .mainPage{
+	background: url(../../images/fashion_rec.png) no-repeat center center;
+	background: url(../../images/fashion_rec.png) no-repeat center center;	
+	height: 230px;
+}
+
+#section2 .portR{
+	margin : 0 0 0 45px;
+}
+
 
 /***Portfolio02***/
 #section3{
