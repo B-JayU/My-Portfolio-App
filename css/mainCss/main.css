@@ -240,8 +240,9 @@
 }
 .portR dt{
 	width: 135px;
-	font-size: 25px;
+	font-size: 18px;
 	font-family: 'tmonmonsori', sans-serif;
+	font-weight:700;
 	display: inline-block;
 	vertical-align: middle;
 	margin-bottom: 15px;
@@ -259,7 +260,7 @@
 }
 .portR dd{
 	width: 300px;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 400;
 	display: inline-block;
 	vertical-align: middle;
